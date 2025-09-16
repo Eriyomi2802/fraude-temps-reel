@@ -1,0 +1,19 @@
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Données temporaires
+donnees/
+
+# Environnement virtuel
+.venv/
+env/
+
+# Logs
+*.log
+
+# Système
+.DS_Store
