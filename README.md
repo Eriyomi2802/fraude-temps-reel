@@ -7,7 +7,7 @@ Ce projet vise à détecter automatiquement des comportements frauduleux à part
 
 ## 👨‍💻 Auteur
 
-**Aldiouma Mbaye** – Data Engineer 
+**Hélène CAKPOSSE** – Data Engineer 
 ---
 
 ## 🧱 Stack technique
@@ -101,3 +101,4 @@ python modeles/predict_fraude.py
 ## 📊 Visualisation
 
 Le tableau de bord **Power BI** est en cours de conception pour visualiser les alertes de fraude en temps réel.
+
